@@ -2,7 +2,7 @@
 const surprises = {
     1: "On commence doucement (le plus nul), je te dit officiellement OUI pour la boite de nuit cet été je viendrais avec vous c'est promis.",
     2: "Quelque chose qui va te servir à prendre soin de ta nouvelle paire. (vient me voir à la récré je te passe le cadeau)",
-    3: "Produit pouce pour les cheveux aromazone. (Je veux le commander DEPUISS mais RUPTURE DE STOCK)",
+    3: "Produit pousse pour les cheveux aromazone. (Je veux le commander DEPUISS mais RUPTURE DE STOCK)",
     4: "Cadeau matériel je te le donne ce matin",
     5: "Je te rends quelque chose de très symbolique",
     6: "Un petit cadeau de ma part maintenant que ma blonde à le permis",
